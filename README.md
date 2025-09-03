@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sivan-devara7
 - 👀 I’m interested in cyber security and UI/UX
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on apple
+- 💞️ I’m looking to collaborate with Japanese companies
 - 📫 How to reach me sivandevara7@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
