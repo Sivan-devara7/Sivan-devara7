@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Sivan-devara7
-- 👀 I’m interested in cyber security and UI/UX
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate with Japanese companies
+- 👀 I’m interested in AIML and Other evolving teechnologies
+- 🌱 I’m currently learning ML 
+- 🤝 I’m looking to collaborate with Japanese companies
 - 📫 How to reach me sivandevara7@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Sivan-devara7/Sivan-devara7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
